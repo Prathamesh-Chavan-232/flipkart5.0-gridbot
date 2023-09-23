@@ -1,0 +1,6 @@
+train: /home/falconcodes/keep-coding/python/grid-opencv/dataset/train/images
+val: /home/falconcodes/keep-coding/python/grid-opencv/dataset/valid/images
+test: /home/falconcodes/keep-coding/python/grid-opencv/dataset/test/images
+
+nc: 3
+names: ["a", "box", "l"]
