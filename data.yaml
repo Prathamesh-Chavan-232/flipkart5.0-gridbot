@@ -1,0 +1,6 @@
+train: E:\Projects\grid-opencv\datasets\box\train\images
+val: E:\Projects\grid-opencv\datasets\box\valid\images
+test: E:\Projects\grid-opencv\datasets\box\test\images
+
+nc: 3
+names: ["a", "box", "l"]
